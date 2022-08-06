@@ -13,7 +13,7 @@ global.pulsa = '0881023363385'
 global.gopay = '088214989352'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'ZxynnBot-Md'
+global.namebot = 'HamzBotz'
 global.gc = 'https://chat.whatsapp.com/FdP0znFDbNWKkleGN6bhxx'
 global.web = 'https://github.com/HamzBotZ/' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
@@ -23,10 +23,10 @@ global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/8c471d45b6cedad43cf84.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'ZxynnBotz'
+global.wm = 'HamzBotz'
 global.watermark = wm
-global.wm2 = '                     「 ZxynnBotz あ⁩ 」'
-global.wm3 = '⫹⫺ Hamzzz'
+global.wm2 = '                     「 HamzGanz あ⁩ 」'
+global.wm3 = '⫹⫺ HamzGanz'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -36,7 +36,7 @@ global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = '2022'
+global.packname = 'HamzBotz'
 global.author = '© HamzzGanzz'
 
 //=============『 Apikey 』================== //
